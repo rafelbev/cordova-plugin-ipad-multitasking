@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-ipad-multitasking",
+  "version": "0.1.0",
+  "author": "Raphael Borg Ellul Vincenti <raphael@neo-tix.com>",
+  "description": "Cordova / PhoneGap Plugin to mitigate ITMS-90474 and ITMS-90475 when uploading apps built with XCode 7. Sets UIRequiresFullScreen and UISupportedInterfaceOrientations to the Info.plist file until proper support is available in Cordova",
+  "cordova": {
+    "id": "cordova-plugin-ipad-multitasking",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafelbev/cordova-plugin-ipad-multitasking.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "orientation",
+    "fullscreen",
+    "story",
+    "board",
+    "storyboard",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafelbev/cordova-plugin-ipad-multitasking/issues"
+  },
+  "homepage": "https://github.com/rafelbev/cordova-plugin-ipad-multitasking#readme"
+}
