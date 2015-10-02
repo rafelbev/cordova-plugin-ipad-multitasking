@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ipad-multitasking",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Raphael Borg Ellul Vincenti <raphael@neo-tix.com>",
   "description": "Cordova / PhoneGap Plugin to mitigate ITMS-90474 and ITMS-90475 when uploading apps built with XCode 7. Sets UIRequiresFullScreen and UISupportedInterfaceOrientations to the Info.plist file until proper support is available in Cordova",
   "cordova": {
